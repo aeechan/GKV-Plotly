@@ -1,0 +1,15 @@
+.graph-container {
+    display: flex;
+}
+
+#barGen {
+    flex: 1;
+    width: 50px;
+    height: 50px;
+}
+
+#barPlat {
+    flex: 1;
+    width: 50px;
+    height: 50px;
+}
