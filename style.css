@@ -4,12 +4,16 @@
 
 #barGen {
     flex: 1;
-    width: 50px;
-    height: 50px;
 }
 
 #barPlat {
     flex: 1;
-    width: 50px;
-    height: 50px;
+}
+
+#donutchart {
+    flex: 1;
+}
+
+#piechart {
+    flex: 1;
 }
